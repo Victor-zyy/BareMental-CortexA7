@@ -1,0 +1,5 @@
+{
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/armgcc/compile_commands.json",
+    "C_Cpp.intelliSenseEngine": "default",  // 改为default
+
+}
