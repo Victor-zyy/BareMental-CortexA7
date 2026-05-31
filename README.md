@@ -11,6 +11,8 @@
 
 ##  2. Usage
 
+First of all, you have to download the NXP SDK2.2 for imx6ull , and then extrat the srcs in another dir ,finally establish the soft-link in each case directory.
+
 ### 2.1 compile
 
 ```
